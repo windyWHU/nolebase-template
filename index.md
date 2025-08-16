@@ -1,6 +1,6 @@
 ---
 layout: home
-sidebar: false
+sidebar: true
 title: sonetto
 titleTemplate: 欢迎来到我的个人博客
 hero:
