@@ -1,5 +1,11 @@
 ---
 status: 尚未完成
+comment: false
+title: sonetto
+titleTemplate: 欢迎来到我的个人博客
+sidebar: true
+tags:
+  - 这是标签
 ---
 # API 文档系统
 
