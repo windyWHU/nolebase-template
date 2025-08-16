@@ -3,7 +3,7 @@ status: 尚未完成
 comment: false
 title: sonetto
 titleTemplate: 欢迎来到我的个人博客
-sidebar: true
+sidebar: false
 tags:
   - 这是标签
 ---
