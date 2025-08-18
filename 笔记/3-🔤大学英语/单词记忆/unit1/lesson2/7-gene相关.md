@@ -23,7 +23,7 @@
 
 理解：homo-想到homosexual同性恋，gene基因，同性恋都是同种类的人
 
-含义：同种类的
+含义：adj-同种类的
 
 
 ## degenerate
