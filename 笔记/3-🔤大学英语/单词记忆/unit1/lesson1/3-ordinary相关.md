@@ -1,3 +1,6 @@
+---
+status: 完成
+---
 # 3-ordinary相关
 
 ordinary，众所周知，是普通的，甚至有平庸的含义。
@@ -13,12 +16,18 @@ ordinary，众所周知，是普通的，甚至有平庸的含义。
 
 含义：n-坐标；v-使协调，相互配合
 
+### coordination n-协作，协调，配合
+
+### coordinator n-协调者
+
 
 ## subordinate
 
 解释：ordinate简单理解为ordinary，在普通小老板之下就是什么？是一些次要的下级的人物，下属
 
 含义：adj-次要的，下级的
+
+### subordination n-从属，附属
 
 
 ## commonplace
